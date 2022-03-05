@@ -1,11 +1,11 @@
 # hotel_management_system
 
-MIS Project Based on Hotel Management System
+Project Based on Hotel Management System
 
 ## Demo
-[Demo](https://hotel-mis.000webhostapp.com/)
+[Demo] coming soon
 
-[Demo Video](https://www.youtube.com/watch?v=7Yuss5rGVC4)
+[Demo Video](coming soon)
 
 # Features
 - Add and Delete the room
